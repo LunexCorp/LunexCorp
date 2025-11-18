@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hello, I'm The Sole Architect of LunexCorp
 
-<!--
-**LunexCorp/LunexCorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **one-person developer studio** behind LunexCorp, driven by a passion for solving complex problems with clean, optimized code. This is where I build, break, learn, and share the journey.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 My Digital Ecosystem: LunexCorp
+
+* **The Lucif Bot:** I built and maintain **Lucif**, a feature-rich WhatsApp bot. It serves as a real-world example of LunexCorp's dedication to practical utility.
+
+### 🛠️ My Current Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | [Python, C/C++(Little), Delphi/Pascal] |
+| **Frameworks** | [Node.js] |
+| **Database** | [SQLite, MS Access] |
+
+### 🚀 What I'm Working On Now
+
+💡 Next up for LunexCorp: **NONE**.
+
+***
