@@ -117,6 +117,22 @@ Interested in what I'm building?
 
 Discover the code, explore the ecosystem, and follow the journey.
 
+---
+
+## 📬 Get in Touch
+
+Have a question, an idea, or an opportunity to discuss? I'd be happy to hear from you.
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-Contact_LunexCorp-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lunex.corpofficial@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore_Our_Projects-181717?style=for-the-badge&logo=github)](https://github.com/LunexCorp)
+[![Website](https://img.shields.io/badge/Website-Visit_LunexCorp-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lunexcorp.runs-on.dev/)
+
+**Email:** lunex.corpofficial@gmail.com
+
+</div>
+
 <br>
 
 **LUNEXCORP**  
